@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Good day! I'm Kyungtaek Oh who interested in Computer Vision.
+Good day! I'm Kyungtaek Oh who is interested in Computer Vision.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhKyungTaek&show_icons=true&theme=algolia)
 
