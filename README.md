@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhKyungTaek&show_icons=true&theme=radical?theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhKyungTaek&show_icons=true&theme=algolia)
 
 <!--
 **OhKyungTaek/OhKyungTaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
