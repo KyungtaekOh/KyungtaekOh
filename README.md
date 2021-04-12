@@ -9,13 +9,13 @@ Good day! I'm Kyungtaek Oh who interested in Computer Vision.
 
 <div align=center>
   <a herf="https://www.python.org/">
-    <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&link=https://www.python.org//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white&link=https://www.python.org//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a herf="https://www.tensorflow.org/?hl=ko">
     <img src="http://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=Tensorflow&link=https://www.tensorflow.org/?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a herf="https://keras.io/">
-    <img src="http://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://keras.io//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="http://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white&link=https://keras.io//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a herf="https://flask.palletsprojects.com/en/1.1.x/">
     <img src="http://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&link=https://flask.palletsprojects.com/en/1.1.x//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
