@@ -6,9 +6,6 @@ If you want to contact me, please email me here.</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhKyungTaek&show_icons=true&theme=algolia)
 
-- 🔭 I’m currently working on CNU Computer Vision Lab.
-- 🌱 I’m currently learning person re-identification
-
 <div align=left>
   <a herf="https://www.python.org/">
     <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white&link=https://www.python.org//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
