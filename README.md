@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Good day! I'm Kyungtaek Oh who is interested in Computer Vision.</br>
+Good day! I'm Kyungtaek Oh.</br>
 If you want to contact me, please email me here.</br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:kyungtaek.oh96@gmail.com)](mailto:kyungtaek.oh96@gmail.com)
 
